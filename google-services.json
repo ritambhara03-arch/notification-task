@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325190342598",
+    "project_id": "notification-bcaf6",
+    "storage_bucket": "notification-bcaf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325190342598:android:b73ae3876c6c933f2244c7",
+        "android_client_info": {
+          "package_name": "app.notification01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvku0mlE64rkURhHmv0D7vTB5a1_ULUwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
